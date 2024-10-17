@@ -1,0 +1,14 @@
+C:\Users\siyab\source\repos\interfaceapp\interfaceapp\obj\Debug\interfaceapp.csproj.AssemblyReference.cache
+C:\Users\siyab\source\repos\interfaceapp\interfaceapp\obj\Debug\MainWindow.baml
+C:\Users\siyab\source\repos\interfaceapp\interfaceapp\obj\Debug\MainWindow.g.cs
+C:\Users\siyab\source\repos\interfaceapp\interfaceapp\obj\Debug\App.g.cs
+C:\Users\siyab\source\repos\interfaceapp\interfaceapp\obj\Debug\interfaceapp_MarkupCompile.cache
+C:\Users\siyab\source\repos\interfaceapp\interfaceapp\obj\Debug\interfaceapp.g.resources
+C:\Users\siyab\source\repos\interfaceapp\interfaceapp\obj\Debug\interfaceapp.Properties.Resources.resources
+C:\Users\siyab\source\repos\interfaceapp\interfaceapp\obj\Debug\interfaceapp.csproj.GenerateResource.cache
+C:\Users\siyab\source\repos\interfaceapp\interfaceapp\obj\Debug\interfaceapp.csproj.CoreCompileInputs.cache
+C:\Users\siyab\source\repos\interfaceapp\interfaceapp\bin\Debug\interfaceapp.exe.config
+C:\Users\siyab\source\repos\interfaceapp\interfaceapp\bin\Debug\interfaceapp.exe
+C:\Users\siyab\source\repos\interfaceapp\interfaceapp\bin\Debug\interfaceapp.pdb
+C:\Users\siyab\source\repos\interfaceapp\interfaceapp\obj\Debug\interfaceapp.exe
+C:\Users\siyab\source\repos\interfaceapp\interfaceapp\obj\Debug\interfaceapp.pdb

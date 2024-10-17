@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\siyab\\source\\repos\\interfaceapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B14922-969E-4D83-9F94-AEB47FC6A424}|interfaceapp\\interfaceapp.csproj|c:\\users\\siyab\\source\\repos\\interfaceapp\\interfaceapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2B14922-969E-4D83-9F94-AEB47FC6A424}|interfaceapp\\interfaceapp.csproj|solutionrelative:interfaceapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B14922-969E-4D83-9F94-AEB47FC6A424}|interfaceapp\\interfaceapp.csproj|C:\\Users\\siyab\\source\\repos\\interfaceapp\\interfaceapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B14922-969E-4D83-9F94-AEB47FC6A424}|interfaceapp\\interfaceapp.csproj|solutionrelative:interfaceapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\siyab\\source\\repos\\interfaceapp\\interfaceapp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "interfaceapp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\siyab\\source\\repos\\interfaceapp\\interfaceapp\\MainWindow.xaml",
+              "RelativeToolTip": "interfaceapp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-27T09:24:55.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\siyab\\source\\repos\\interfaceapp\\interfaceapp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "interfaceapp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\siyab\\source\\repos\\interfaceapp\\interfaceapp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "interfaceapp\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:24:55.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

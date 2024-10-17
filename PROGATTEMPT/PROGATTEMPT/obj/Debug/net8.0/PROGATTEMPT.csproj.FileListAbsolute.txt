@@ -1,0 +1,14 @@
+C:\Users\siyab\source\repos\PROGATTEMPT\PROGATTEMPT\bin\Debug\net8.0\PROGATTEMPT.exe
+C:\Users\siyab\source\repos\PROGATTEMPT\PROGATTEMPT\bin\Debug\net8.0\PROGATTEMPT.deps.json
+C:\Users\siyab\source\repos\PROGATTEMPT\PROGATTEMPT\bin\Debug\net8.0\PROGATTEMPT.runtimeconfig.json
+C:\Users\siyab\source\repos\PROGATTEMPT\PROGATTEMPT\bin\Debug\net8.0\PROGATTEMPT.dll
+C:\Users\siyab\source\repos\PROGATTEMPT\PROGATTEMPT\bin\Debug\net8.0\PROGATTEMPT.pdb
+C:\Users\siyab\source\repos\PROGATTEMPT\PROGATTEMPT\obj\Debug\net8.0\PROGATTEMPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siyab\source\repos\PROGATTEMPT\PROGATTEMPT\obj\Debug\net8.0\PROGATTEMPT.AssemblyInfoInputs.cache
+C:\Users\siyab\source\repos\PROGATTEMPT\PROGATTEMPT\obj\Debug\net8.0\PROGATTEMPT.AssemblyInfo.cs
+C:\Users\siyab\source\repos\PROGATTEMPT\PROGATTEMPT\obj\Debug\net8.0\PROGATTEMPT.csproj.CoreCompileInputs.cache
+C:\Users\siyab\source\repos\PROGATTEMPT\PROGATTEMPT\obj\Debug\net8.0\PROGATTEMPT.dll
+C:\Users\siyab\source\repos\PROGATTEMPT\PROGATTEMPT\obj\Debug\net8.0\refint\PROGATTEMPT.dll
+C:\Users\siyab\source\repos\PROGATTEMPT\PROGATTEMPT\obj\Debug\net8.0\PROGATTEMPT.pdb
+C:\Users\siyab\source\repos\PROGATTEMPT\PROGATTEMPT\obj\Debug\net8.0\PROGATTEMPT.genruntimeconfig.cache
+C:\Users\siyab\source\repos\PROGATTEMPT\PROGATTEMPT\obj\Debug\net8.0\ref\PROGATTEMPT.dll

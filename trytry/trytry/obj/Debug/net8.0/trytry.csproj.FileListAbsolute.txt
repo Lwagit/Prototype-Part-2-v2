@@ -1,0 +1,14 @@
+C:\Users\siyab\source\repos\trytry\trytry\bin\Debug\net8.0\trytry.exe
+C:\Users\siyab\source\repos\trytry\trytry\bin\Debug\net8.0\trytry.deps.json
+C:\Users\siyab\source\repos\trytry\trytry\bin\Debug\net8.0\trytry.runtimeconfig.json
+C:\Users\siyab\source\repos\trytry\trytry\bin\Debug\net8.0\trytry.dll
+C:\Users\siyab\source\repos\trytry\trytry\bin\Debug\net8.0\trytry.pdb
+C:\Users\siyab\source\repos\trytry\trytry\obj\Debug\net8.0\trytry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siyab\source\repos\trytry\trytry\obj\Debug\net8.0\trytry.AssemblyInfoInputs.cache
+C:\Users\siyab\source\repos\trytry\trytry\obj\Debug\net8.0\trytry.AssemblyInfo.cs
+C:\Users\siyab\source\repos\trytry\trytry\obj\Debug\net8.0\trytry.csproj.CoreCompileInputs.cache
+C:\Users\siyab\source\repos\trytry\trytry\obj\Debug\net8.0\trytry.dll
+C:\Users\siyab\source\repos\trytry\trytry\obj\Debug\net8.0\refint\trytry.dll
+C:\Users\siyab\source\repos\trytry\trytry\obj\Debug\net8.0\trytry.pdb
+C:\Users\siyab\source\repos\trytry\trytry\obj\Debug\net8.0\trytry.genruntimeconfig.cache
+C:\Users\siyab\source\repos\trytry\trytry\obj\Debug\net8.0\ref\trytry.dll

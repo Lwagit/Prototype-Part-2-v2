@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\siyab\\source\\repos\\RecpieAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D6834-6498-455D-ABAA-A0B9E8DA0B0E}|RecpieAPP\\RecpieAPP.csproj|c:\\users\\siyab\\source\\repos\\recpieapp\\recpieapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EA1D6834-6498-455D-ABAA-A0B9E8DA0B0E}|RecpieAPP\\RecpieAPP.csproj|solutionrelative:recpieapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1D6834-6498-455D-ABAA-A0B9E8DA0B0E}|RecpieAPP\\RecpieAPP.csproj|c:\\users\\siyab\\source\\repos\\recpieapp\\recpieapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1D6834-6498-455D-ABAA-A0B9E8DA0B0E}|RecpieAPP\\RecpieAPP.csproj|solutionrelative:recpieapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\siyab\\source\\repos\\RecpieAPP\\RecpieAPP\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RecpieAPP\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\siyab\\source\\repos\\RecpieAPP\\RecpieAPP\\MainWindow.xaml",
+              "RelativeToolTip": "RecpieAPP\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T15:50:35.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\siyab\\source\\repos\\RecpieAPP\\RecpieAPP\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RecpieAPP\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\siyab\\source\\repos\\RecpieAPP\\RecpieAPP\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RecpieAPP\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:50:35.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

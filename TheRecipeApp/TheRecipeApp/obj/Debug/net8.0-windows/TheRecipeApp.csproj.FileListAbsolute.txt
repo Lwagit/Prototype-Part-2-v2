@@ -1,0 +1,2 @@
+C:\Users\siyab\source\repos\TheRecipeApp\TheRecipeApp\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\siyab\source\repos\TheRecipeApp\TheRecipeApp\obj\Debug\net8.0-windows\TheRecipeApp_MarkupCompile.cache

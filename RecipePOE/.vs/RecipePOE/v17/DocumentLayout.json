@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\siyab\\source\\repos\\RecipePOE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F600AF34-6DB5-4009-A820-1312E9F2966E}|RecipePOE\\RecipePOE.csproj|c:\\users\\siyab\\source\\repos\\recipepoe\\recipepoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F600AF34-6DB5-4009-A820-1312E9F2966E}|RecipePOE\\RecipePOE.csproj|solutionrelative:recipepoe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F600AF34-6DB5-4009-A820-1312E9F2966E}|RecipePOE\\RecipePOE.csproj|c:\\users\\siyab\\source\\repos\\recipepoe\\recipepoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F600AF34-6DB5-4009-A820-1312E9F2966E}|RecipePOE\\RecipePOE.csproj|solutionrelative:recipepoe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F600AF34-6DB5-4009-A820-1312E9F2966E}|RecipePOE\\RecipePOE.csproj|c:\\users\\siyab\\source\\repos\\recipepoe\\recipepoe\\addrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F600AF34-6DB5-4009-A820-1312E9F2966E}|RecipePOE\\RecipePOE.csproj|solutionrelative:recipepoe\\addrecipewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F600AF34-6DB5-4009-A820-1312E9F2966E}|RecipePOE\\RecipePOE.csproj|c:\\users\\siyab\\source\\repos\\recipepoe\\recipepoe\\addrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F600AF34-6DB5-4009-A820-1312E9F2966E}|RecipePOE\\RecipePOE.csproj|solutionrelative:recipepoe\\addrecipewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F600AF34-6DB5-4009-A820-1312E9F2966E}|RecipePOE\\RecipePOE.csproj|c:\\users\\siyab\\source\\repos\\recipepoe\\recipepoe\\piechartwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F600AF34-6DB5-4009-A820-1312E9F2966E}|RecipePOE\\RecipePOE.csproj|solutionrelative:recipepoe\\piechartwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F600AF34-6DB5-4009-A820-1312E9F2966E}|RecipePOE\\RecipePOE.csproj|c:\\users\\siyab\\source\\repos\\recipepoe\\recipepoe\\piechartwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F600AF34-6DB5-4009-A820-1312E9F2966E}|RecipePOE\\RecipePOE.csproj|solutionrelative:recipepoe\\piechartwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PieChartWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\siyab\\source\\repos\\RecipePOE\\RecipePOE\\PieChartWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RecipePOE\\PieChartWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\siyab\\source\\repos\\RecipePOE\\RecipePOE\\PieChartWindow.xaml.cs",
+              "RelativeToolTip": "RecipePOE\\PieChartWindow.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:19:24.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PieChartWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\siyab\\source\\repos\\RecipePOE\\RecipePOE\\PieChartWindow.xaml",
+              "RelativeDocumentMoniker": "RecipePOE\\PieChartWindow.xaml",
+              "ToolTip": "C:\\Users\\siyab\\source\\repos\\RecipePOE\\RecipePOE\\PieChartWindow.xaml",
+              "RelativeToolTip": "RecipePOE\\PieChartWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T09:09:55.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddRecipeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\siyab\\source\\repos\\RecipePOE\\RecipePOE\\AddRecipeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RecipePOE\\AddRecipeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\siyab\\source\\repos\\RecipePOE\\RecipePOE\\AddRecipeWindow.xaml.cs",
+              "RelativeToolTip": "RecipePOE\\AddRecipeWindow.xaml.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAiwA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:38:39.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddRecipeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\siyab\\source\\repos\\RecipePOE\\RecipePOE\\AddRecipeWindow.xaml",
+              "RelativeDocumentMoniker": "RecipePOE\\AddRecipeWindow.xaml",
+              "ToolTip": "C:\\Users\\siyab\\source\\repos\\RecipePOE\\RecipePOE\\AddRecipeWindow.xaml",
+              "RelativeToolTip": "RecipePOE\\AddRecipeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-14T04:43:40.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\siyab\\source\\repos\\RecipePOE\\RecipePOE\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "RecipePOE\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\siyab\\source\\repos\\RecipePOE\\RecipePOE\\MainWindow.xaml",
+              "RelativeToolTip": "RecipePOE\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T18:34:29.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\siyab\\source\\repos\\RecipePOE\\RecipePOE\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RecipePOE\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\siyab\\source\\repos\\RecipePOE\\RecipePOE\\MainWindow.xaml.cs",
+              "RelativeToolTip": "RecipePOE\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA+wCIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:34:28.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

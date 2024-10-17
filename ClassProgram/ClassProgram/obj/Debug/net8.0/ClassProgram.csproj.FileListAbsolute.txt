@@ -1,0 +1,14 @@
+C:\Users\siyab\source\repos\ClassProgram\ClassProgram\bin\Debug\net8.0\ClassProgram.exe
+C:\Users\siyab\source\repos\ClassProgram\ClassProgram\bin\Debug\net8.0\ClassProgram.deps.json
+C:\Users\siyab\source\repos\ClassProgram\ClassProgram\bin\Debug\net8.0\ClassProgram.runtimeconfig.json
+C:\Users\siyab\source\repos\ClassProgram\ClassProgram\bin\Debug\net8.0\ClassProgram.dll
+C:\Users\siyab\source\repos\ClassProgram\ClassProgram\bin\Debug\net8.0\ClassProgram.pdb
+C:\Users\siyab\source\repos\ClassProgram\ClassProgram\obj\Debug\net8.0\ClassProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siyab\source\repos\ClassProgram\ClassProgram\obj\Debug\net8.0\ClassProgram.AssemblyInfoInputs.cache
+C:\Users\siyab\source\repos\ClassProgram\ClassProgram\obj\Debug\net8.0\ClassProgram.AssemblyInfo.cs
+C:\Users\siyab\source\repos\ClassProgram\ClassProgram\obj\Debug\net8.0\ClassProgram.csproj.CoreCompileInputs.cache
+C:\Users\siyab\source\repos\ClassProgram\ClassProgram\obj\Debug\net8.0\ClassProgram.dll
+C:\Users\siyab\source\repos\ClassProgram\ClassProgram\obj\Debug\net8.0\refint\ClassProgram.dll
+C:\Users\siyab\source\repos\ClassProgram\ClassProgram\obj\Debug\net8.0\ClassProgram.pdb
+C:\Users\siyab\source\repos\ClassProgram\ClassProgram\obj\Debug\net8.0\ClassProgram.genruntimeconfig.cache
+C:\Users\siyab\source\repos\ClassProgram\ClassProgram\obj\Debug\net8.0\ref\ClassProgram.dll

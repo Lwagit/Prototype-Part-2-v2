@@ -1,0 +1,38 @@
+﻿@model LinkedList<Course>
+@{
+}
+<h2 class="text-center mb-5">List of course</h2>
+
+<div class="row mb-5">
+    <div class="col">
+        <a class="btn btn-primary" asp-controller="Courses" asp-action="Create">New Course</a>
+        
+    </div>
+    <div class="col">
+
+    </div>
+
+</div>
+
+<table class="table>">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Module Name</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var course in Model)
+        {
+            <td>@course.Id</td>
+            <td>@course.Name</td>
+            <td>@course.ModuleName</td>
+            <td>@course.Description</td>
+            <td>
+                <a class="btn btn-secondary btn-sm" asp-controller="Course" asp-action
+            </td>
+        }
+    </tbody>
+</table>
